@@ -9,6 +9,12 @@ Here you can find my latest blog posts on Medium:
 - [Authentication And Authorization In Azure Kubernetes Service (AKS) With Terraform](https://medium.com/cloud-native-daily/authentication-and-authorization-in-azure-kubernetes-service-aks-with-terraform-c6a045bacd09)
 - [A comprehensive report on my first in-person attendance at KubeCon + CloudNativeCon 2023 Europe](https://medium.com/@maryam.tavakoli.3/a-comprehensive-report-on-my-first-in-person-attendance-at-kubecon-cloudnativecon-2023-europe-cbabee1bb313)
 
+### Cloud Certificates ☁️
+
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/4d7af71b-f1d4-40ef-bbb1-896f946f780a/linked_in_profile)
+- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/685a45fe-e78c-40dd-b515-45ed88c6afd9/linked_in_profile)
+- [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/b8a2f0f8-0fdb-4702-b3ef-1edea85a3531/public_url)
+
 ### Let's Be In Touch!
 
 - [LinkedIn](https://www.linkedin.com/in/maryam-tavakoli/)
