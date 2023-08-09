@@ -14,7 +14,6 @@ Here you can find my latest blog posts on Medium:
 - [LinkedIn](https://www.linkedin.com/in/maryam-tavakoli/)
 - [Twitter](https://twitter.com/Marytvk)
 - [Medium](https://medium.com/@maryam.tavakoli.3)
-- [Email](maryam_tavakkoli@hotmail.com)
 
 
 <!--
