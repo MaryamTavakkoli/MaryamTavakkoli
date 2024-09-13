@@ -2,12 +2,13 @@
 My name is Maryam Tvakkoli. I'm a senior Cloud Engineer, based in Helsinki, Finland. 
 
 ### Blog Posts
-Here you can find my latest blog posts on Medium:
+Here you can find my latest blog posts on my [Medium](https://medium.com/@maryam.tavakoli.3) account!
 
-- [Utilize Azure Kubernetes Service (AKS) Spot Node Pool for Non-Critical Workloads](https://medium.com/cloud-native-daily/utilize-azure-kubernetes-service-aks-spot-node-pool-for-non-critical-workloads-ed435ad5bb1)
-- [Tools To Make Your Terminal DevOps and Kubernetes Friendly](https://medium.com/aws-tip/tools-to-make-your-terminal-devops-and-kubernetes-friendly-64d27a35bd3f)
-- [Authentication And Authorization In Azure Kubernetes Service (AKS) With Terraform](https://medium.com/cloud-native-daily/authentication-and-authorization-in-azure-kubernetes-service-aks-with-terraform-c6a045bacd09)
-- [A comprehensive report on my first in-person attendance at KubeCon + CloudNativeCon 2023 Europe](https://medium.com/@maryam.tavakoli.3/a-comprehensive-report-on-my-first-in-person-attendance-at-kubecon-cloudnativecon-2023-europe-cbabee1bb313)
+### Talks
+- [Three And A Half Years Of Building Our Kubernetes Platform: Lessons Learned Along The Way](https://www.youtube.com/watch?v=ADK8Vd5WNZU&t=69s)
+- [Tools To Make Your Terminal DevOps and Kubernetes Friendly](https://www.youtube.com/watch?v=QL7h9J5Eqd8&t=20s)
+- [Journey Of Building Our Kubernetes Platform: Successes, Failures, And Valuable Lessons Learned](https://www.youtube.com/watch?v=vHaE5kNrwnU)
+- [Exploring the evolution: Lessons from building our Internal Developer Platform](https://platformcon.com/talks/exploring-the-evolution-lessons-from-building-our-internal-developer-platform)
 
 ### Cloud Certificates ☁️
 
