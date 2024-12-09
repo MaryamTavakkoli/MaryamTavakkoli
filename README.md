@@ -9,6 +9,9 @@ Here you can find my latest blog posts on my [Medium](https://medium.com/@maryam
 - [Tools To Make Your Terminal DevOps and Kubernetes Friendly](https://www.youtube.com/watch?v=QL7h9J5Eqd8&t=20s)
 - [Journey Of Building Our Kubernetes Platform: Successes, Failures, And Valuable Lessons Learned](https://www.youtube.com/watch?v=vHaE5kNrwnU)
 - [Exploring the evolution: Lessons from building our Internal Developer Platform](https://platformcon.com/talks/exploring-the-evolution-lessons-from-building-our-internal-developer-platform)
+- [Delivering TRansformational AI Apps with AKS](https://msaitour.microsoft.com/en-us/helsinki)
+- [Kubernetes GitOps with ArgoCD: Best Practices & Practical Patterns](https://www.youtube.com/watch?v=ZDLkCI_mCiw&t=4s)
+- [Revolutionizing Platform Engineering with GitOps and ArgoCD](https://devopscon.io/kubernetes-ecosystem/revolutionizing-platform-engineering-gitops-argocd/)
 
 ### Cloud Certificates ☁️
 
